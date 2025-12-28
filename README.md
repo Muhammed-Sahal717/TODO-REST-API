@@ -26,25 +26,22 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)](https://github.com/Muhammed-Sahal717/TODO-REST-API.git)
     ```
 
-2.  **Navigate to the project directory:**
-    ```bash
-    cd simple-server
     ```
 
-3.  **Install dependencies:**
+2.  **Install dependencies:**
     ```bash
     npm install
     ```
 
-4.  **Create a `.env` file** in the root of the project and add your MongoDB connection string:
+3.  **Create a `.env` file** in the root of the project and add your MongoDB connection string:
     ```
     MONGO_URI=mongodb+srv://<username>:<password>@cluster.....
     ```
 
-5.  **Start the server:**
+4.  **Start the server:**
     ```bash
     node server.js
     ```
