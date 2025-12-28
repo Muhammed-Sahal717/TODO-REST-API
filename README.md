@@ -29,8 +29,6 @@ Before you begin, ensure you have the following installed:
     git clone https://github.com/Muhammed-Sahal717/TODO-REST-API.git
     ```
 
-    ```
-
 2.  **Install dependencies:**
     ```bash
     npm install
