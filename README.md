@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)](https://github.com/Muhammed-Sahal717/TODO-REST-API.git)
+    git clone https://github.com/Muhammed-Sahal717/TODO-REST-API.git
     ```
 
     ```
